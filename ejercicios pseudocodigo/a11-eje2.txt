@@ -1,0 +1,8 @@
+Inicio
+	Escribe "Introduce un número entero:"
+	Lee numero
+	Escribe "tabla de multiplicar del numero: "
+	Escribe Para i en (1...10) hacer
+	resultado <- numero x i
+	Escribe numero, "x", i "=", resultado	
+Fin

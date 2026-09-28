@@ -1,0 +1,10 @@
+Inicio
+	Escribe "Introduce el número de barras del día anterior vendidas: "
+	Lee barrasDiaAnterior
+	Escribe "Precio habitual de una barra: 3.49 euros"
+	Escribe "Descuento aplicado: 60 %"
+	precioHabitual <- 3.49
+	total <- barrasDiaAnterior * precioHabitual
+	importeTotal <- total - (total * (60/100))
+	Escribe "Importe total de la venta: ", importeTotal, "euros."
+Fin

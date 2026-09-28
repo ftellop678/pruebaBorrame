@@ -1,0 +1,8 @@
+Inicio
+	Escribe "Introduce un número entero:"
+	Lee numero
+	Si numero % 2 == 0 entonces
+		Escribe "numero es un número par"
+	Sino entonces
+		Escribe "numero es un número impar"
+Fin

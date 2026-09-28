@@ -1,0 +1,8 @@
+Inicio
+	Escribe "Introduce las horas trabajadas: "
+	Lee horasTrabajadas 
+	Escribe "Introduce el precio por hora en euros: "
+	Lee precioPorHora
+	importeTotal <- horasTrabajadas * precioPorHora
+	Escribe "El importe total del servicio es: ", importeTotal, "euros."
+Fin

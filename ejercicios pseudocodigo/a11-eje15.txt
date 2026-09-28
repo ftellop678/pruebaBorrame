@@ -1,0 +1,16 @@
+Inicio
+	Escribe "Introduce el número de términos de Fibonacci (entero positivo): "
+	Lee numero
+	Escribe "Serie de Fibonacci: "
+	Escribe "0"
+	Escribe "1"
+	resultado <- 0
+	Para i <- 1 hasta numero hacer
+	Escribe i
+	Escribe resultado
+	
+Fin
+
+a = 0
+b = 1
+c = a + b	
