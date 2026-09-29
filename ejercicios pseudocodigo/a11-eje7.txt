@@ -1,8 +1,0 @@
-Inicio
-	Escribe "Introduce el precio sin IVA en euros: "
-	Lee precioSinIva
-	Escribe "Introduce el porcentaje de IVA: "
-	Lee IVA
-	precioConIva <- precioSinIva * (precioSinIva * (IVA/100))
-	Escribe "El precio final del artículo es: ", precioConIva, "euros."
-Fin

@@ -1,9 +1,0 @@
-Inicio
-	Escribe "Introduce un número entero positivo: "	
-	Lee numero
-	resultado <- 0
-	Para i <- 1 hasta numero hacer
-		resultado <- i + resultado
-	FinPara
-	Escribe "La suma de los enteros desde 1 hasta ", numero, " es:", resultado, "."
-Fin

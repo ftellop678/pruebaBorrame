@@ -1,9 +1,0 @@
-Inicio
-	Escribe "Introduce tu nombre: "
-	Lee nombre
-	Escribe "Introduce cuántas veces quieres repetirlo (entero positivo): "
-	Lee numeroRepes
-	Para i <- 1 hasta numeroRepes hacer
-		Escribe nombre
-	FinPara
-Fin
